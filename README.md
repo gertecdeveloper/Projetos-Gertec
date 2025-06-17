@@ -16,11 +16,13 @@ Agradecemos a compreensão e estamos à disposição para ajudar!
 
 🔐 Acesso ao Jira
 Para visualizar os projetos, é necessário estar logado no portal da Gertec. Acesse o link abaixo para fazer login ou criar sua conta:
+
 👉 Fazer login no Jira Gertec
 https://gertec.atlassian.net/servicedesk/customer/user/login?destination=portals
 --------------------------------------------------------------------------
 
 📌 Caso ainda não tenha cadastro, siga os passos abaixo:
+
 1. Informe seu e-mail na tela de login:
 ![image](https://github.com/user-attachments/assets/a3196908-37c9-4ae3-99f8-043112cba17c)
 2. Se o e-mail não estiver cadastrado, você verá a seguinte tela:
